@@ -1,1 +1,11 @@
-{"Version":1,"Hash":"ooww51GfAOQuIjy2CJZ3aT2y2sKhUMq3+sCM61JsE58=","Source":"portfolioApi","BasePath":"/","Mode":"Root","ManifestType":"Build","ReferencedProjectsConfiguration":[],"DiscoveryPatterns":[],"Assets":[],"Endpoints":[]}
+{
+  "Version": 1,
+  "Hash": "9Sl7r0NUQRYLsK2qkhEqgkdUne7xTlYcYp21bz6llnc=",
+  "Source": "portfolioApi",
+  "BasePath": "_content/portfolioApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
